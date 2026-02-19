@@ -23,9 +23,9 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30"> <span style="color:#00F0FF;">Developer Snapshot</span>
 
-<table align="center" border="1" style="border-collapse: collapse; border-color: #30363d; width: 100%; background-color: transparent;">
+<table align="center" border="0" style="border-collapse: collapse; width: 100%; background-color: transparent;">
   <tr>
-    <td width="55%" valign="top">
+    <td width="50%" valign="top">
       <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" width="25"> What I'm Up To</h3>
       <ul>
         <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="18"> <b>Building:</b> Flutter apps (<i>A-lens, CookEase, Aksh English</i>)</li>
@@ -34,7 +34,7 @@
         <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="18"> <b>Fun Fact:</b> 2x Internal SIH Winner (2024 & 2025) & Chess Player ♟️</li>
       </ul>
     </td>
-    <td width="45%" valign="top">
+    <td width="50%" valign="top">
       <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="25"> Work Experience</h3>
       <ul>
         <li>👑 <b>Chief Technology Officer</b> <br><i>@ NextGen Tech Connect</i></li>
@@ -70,8 +70,7 @@
 </p>
 
 <p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=aashiskr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-  <img src="https://leetcard.jacoblin.cool/inf_ashish?theme=tokyonight&font=Syne&ext=heatmap&hide_border=true" alt="LeetCode Stats" width="48%" />
+  <img src="https://leetcard.jacoblin.cool/inf_ashish?theme=tokyonight&font=Syne&ext=heatmap&hide_border=true" alt="LeetCode Stats" width="60%" />
 </p>
 
 <div align="center">
