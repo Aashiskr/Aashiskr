@@ -22,7 +22,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%">
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="30"> <span style="color:#00F0FF;">Developer Snapshot</span>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30"> <span style="color:#00F0FF;">Developer Snapshot</span>
 
 <table align="center" border="1" style="border-collapse: collapse; border-color: #30363d; width: 100%; background-color: transparent;">
   <tr>
@@ -76,8 +76,19 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aashiskr&label=Profile%20Views&color=00F0FF&style=for-the-badge&logo=github" alt="Views" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aashiskr&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph">
 </div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%">
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="30"> <span style="color:#FFB800;">Daily Dose of Code</span>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Jokes Card" width="48%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" width="48%" />
+</p>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%">
@@ -99,6 +110,18 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/pacman.gif" width="100%" alt="Pacman Eating Animation">
 </div>
 
+## 🎵 <span style="color:#1DB954;">Vibing To</span>
+
+<div align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_username&cover_image=true&theme=tokyonight&show_offline=true&background_color=121212&interchange=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_username&cover_image=true&theme=tokyonight&show_offline=true&background_color=121212&interchange=true" alt="Spotify Now Playing" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%">
+</div>
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30"> <span style="color:#FFB800;">Let's Connect!</span>
 
 <div align="center">
@@ -107,6 +130,12 @@
   <a href="https://leetcode.com/u/inf_ashish/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
   <a href="mailto:infashish@zohomail.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://ashish-portfolio-new-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio" /></a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=aashiskr&label=Profile%20Views&color=00F0FF&style=for-the-badge&logo=github" alt="Views" />
 </div>
 
 <br>
