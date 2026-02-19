@@ -63,7 +63,7 @@
 
 <br>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aashiskr&label=Profile%20views&color=00FF00&style=for-the-badge" alt="aashiskr profile views" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashiskr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
