@@ -3,8 +3,7 @@
   
   <br><br>
   
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="120" alt="Hacker Animation">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="120" alt="3D Cube Animation">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="240" alt="Hacker Animation">
   
   <h1>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="35"> 
@@ -110,11 +109,12 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/pacman.gif" width="100%" alt="Pacman Eating Animation">
 </div>
 
+
 ## 🎵 <span style="color:#1DB954;">Vibing To</span>
 
 <div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_username&cover_image=true&theme=tokyonight&show_offline=true&background_color=121212&interchange=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_username&cover_image=true&theme=tokyonight&show_offline=true&background_color=121212&interchange=true" alt="Spotify Now Playing" />
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31qldbicynoz6tquukzamfsdcmqi&cover_image=true&theme=tokyonight&show_offline=true&background_color=121212&interchange=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31qldbicynoz6tquukzamfsdcmqi&cover_image=true&theme=tokyonight&show_offline=true&background_color=121212&interchange=true" alt="Spotify Now Playing" />
   </a>
 </div>
 
