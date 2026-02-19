@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-  
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="150" alt="Hacker Animation">
   
   <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="35"> Hi, I'm Ashish Kumar (He/Him)</h1>
@@ -12,7 +10,7 @@
   <br><br>
   
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aashiskr&theme=synthwave&no-frame=true&no-bg=true&margin=w15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=aashiskr&theme=synthwave&margin=w15" alt="Trophies" />
   </a>
 </div>
 
@@ -52,15 +50,17 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.gif" width="100%">
 </div>
 
-## 📊 <span style="color:#FF0055;">GitHub Analytics</span>
+## 📊 <span style="color:#FF0055;">Analytics & Stats</span>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aashiskr&show_icons=true&locale=en&theme=synthwave&hide_border=true&bg_color=00000000" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashiskr&theme=synthwave&hide_border=true&background=00000000" alt="Streak Stats" width="48%" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=aashiskr&show_icons=true&locale=en&theme=synthwave&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashiskr&theme=synthwave&hide_border=true" alt="Streak Stats" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashiskr&layout=compact&theme=synthwave&hide_border=true&bg_color=00000000" alt="Top Languages" width="60%" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=aashiskr&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" width="48%" />
+  
+  <img src="https://leetcard.jacoblin.cool/inf_ashish?theme=synthwave&font=Syne&ext=heatmap&hide_border=true" alt="LeetCode Stats" width="48%" />
 </p>
 
 <div align="center">
@@ -76,11 +76,12 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/infashish"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://kaggle.com/infashish"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://leetcode.com/u/inf_ashish/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
   <a href="mailto:infashish@zohomail.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/7o7e7/7o7e7/main/assets/footer.gif" width="100%" alt="Colorful Footer">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/pacman.gif" width="100%" alt="Pacman Eating Animation">
 </div>
