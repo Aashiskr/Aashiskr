@@ -4,6 +4,7 @@
   <br><br>
   
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="120" alt="Hacker Animation">
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="120" alt="3D Cube Animation">
   
   <h1>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="35"> 
@@ -11,13 +12,7 @@
   </h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&width=800&lines=B.Tech+CSE+(Data+Science)+%40+Shobhit+University;Chief+Technology+Officer+%40+NextGen+Tech+Connect;Flutter+%26+Browser+Extension+Developer;Author+of+Python+Package:+inf_STT;2x+Smart+India+Hackathon+Winner" alt="Typing SVG" />
-  </a>
-
-  <br><br>
-  
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aashiskr&no-frame=true&no-bg=true&margin=w15" alt="Trophies" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&width=800&lines=B.Tech+CSE+(Data+Science);Chief+Technology+Officer+%40+NextGen+Tech;Flutter+%26+Full-Stack+Developer;Author+of+Python+Package:+inf_STT;2x+Smart+India+Hackathon+Winner" alt="Typing SVG" />
   </a>
 </div>
 
@@ -34,8 +29,8 @@
     <td width="55%" valign="top">
       <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" width="25"> What I'm Up To</h3>
       <ul>
-        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="18"> <b>Building:</b> Flutter apps (<i>A-lens, CookEase, Aksh English, Notes app</i>)</li>
-        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" width="18"> <b>Learning:</b> AI, Data Science, Computer Vision, React, Next.js</li>
+        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="18"> <b>Building:</b> Flutter apps (<i>A-lens, CookEase, Aksh English</i>)</li>
+        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" width="18"> <b>Learning:</b> AI, Data Science, Computer Vision, React</li>
         <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" width="18"> <b>Open Source:</b> Author of Python Package <a href="#"><b><code>inf_STT</code></b></a></li>
         <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="18"> <b>Fun Fact:</b> 2x Internal SIH Winner (2024 & 2025) & Chess Player ♟️</li>
       </ul>
@@ -45,7 +40,7 @@
       <ul>
         <li>👑 <b>Chief Technology Officer</b> <br><i>@ NextGen Tech Connect</i></li>
         <li>💻 <b>Web Developer (Intern)</b> <br><i>@ inNEXTin</i></li>
-        <li>📊 <b>Data Analytics & Mgmt Intern</b> <br><i>@ Archirush Technology</i></li>
+        <li>📊 <b>Data Analytics Intern</b> <br><i>@ Archirush Technology</i></li>
         <li>🗄️ <b>Data Manager (Intern)</b> <br><i>@ ORIONN ARCHITECTS</i></li>
       </ul>
     </td>
@@ -77,12 +72,25 @@
 
 <p align="center">
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=aashiskr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-  
   <img src="https://leetcard.jacoblin.cool/inf_ashish?theme=tokyonight&font=Syne&ext=heatmap&hide_border=true" alt="LeetCode Stats" width="48%" />
 </p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=aashiskr&label=Profile%20Views&color=00F0FF&style=for-the-badge&logo=github" alt="Views" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%">
+</div>
+
+## 🐍 <span style="color:#FFB800;">Contribution Snake</span>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aashiskr/aashiskr/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aashiskr/aashiskr/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aashiskr/aashiskr/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <br>
