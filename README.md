@@ -20,9 +20,12 @@
     <span style="color:#FF5722;">My Active Daily Streaks</span>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35" alt="Rocket Animation">
   </h2>
+  
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashiskr&theme=tokyonight&hide_border=true&fire=FF5722&ring=FF5722" alt="GitHub Streak" height="180" />
-    <img src="https://leetcard.jacoblin.cool/inf_ashish?theme=tokyonight&font=Syne&ext=heatmap&hide_border=true" alt="LeetCode Streak" height="180" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashiskr&theme=tokyonight&hide_border=true&fire=FF5722&ring=FF5722" alt="GitHub Streak" width="60%" />
+  </p>
+  <p align="center">
+    <img src="https://leetcard.jacoblin.cool/inf_ashish?theme=tokyonight&font=Syne&ext=heatmap&hide_border=true" alt="LeetCode Streak" width="60%" />
   </p>
   </div>
 
