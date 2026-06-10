@@ -142,7 +142,7 @@
   <a href="https://kaggle.com/infashish"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" /></a>
   <a href="https://leetcode.com/u/inf_ashish/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
   <a href="mailto:infashish@zohomail.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://ashish-portfolio-new-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://my-portfolio-2026-two-liard.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio" /></a>
 </div>
 
 <br>
